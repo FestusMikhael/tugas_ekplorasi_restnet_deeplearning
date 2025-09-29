@@ -1,5 +1,5 @@
-Festus Mikhael / 122140087
-Kenneth Austin / 122140043
+# Festus Mikhael / 122140087 
+# Kenneth Austin / 122140043
 
 # Laporan Benchmark: ResNet-34 vs Plain-34 (Residual Connection Analysis)
 
@@ -32,8 +32,10 @@ Eksperimen ini menggunakan konfigurasi hyperparameter yang identik untuk memasti
 
 ## 3. Grafik Kurva Training
 
-![Grafik Perbandingan Akurasi]<img width="813" height="479" alt="image" src="https://github.com/user-attachments/assets/2331fa19-c6f9-4842-92a1-e9cfa04d0872" />
-![Grafik Perbandingan Loss]<img width="812" height="486" alt="image" src="https://github.com/user-attachments/assets/6464908a-e4ad-4389-9f0b-021519486917" />
+# Grafik Perbandingan Akurasi
+<img width="813" height="479" alt="image" src="https://github.com/user-attachments/assets/2331fa19-c6f9-4842-92a1-e9cfa04d0872" />
+# Grafik Perbandingan Loss
+<img width="812" height="486" alt="image" src="https://github.com/user-attachments/assets/6464908a-e4ad-4389-9f0b-021519486917" />
 
 ---
 
